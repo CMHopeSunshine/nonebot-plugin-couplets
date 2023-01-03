@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "nonebot-plugin-couplets"
 version = "0.1.0"
-description = "Nonebot2对对联插件"
+description = "Nonebot2对对联插件。"
 authors = ["CMHopeSunshine <277073121@qq.com>"]
 readme = "README.md"
 license = "AGPL"
