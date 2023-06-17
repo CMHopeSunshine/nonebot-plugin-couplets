@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nonebot-plugin-couplets"
-version = "0.1.0"
+version = "0.2.0"
 description = "Nonebot2对对联插件。"
 authors = ["CMHopeSunshine <277073121@qq.com>"]
 readme = "README.md"
@@ -15,8 +15,7 @@ url = "https://mirrors.aliyun.com/pypi/simple/"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-nonebot2 = "^2.0.0-rc.2"
-nonebot-adapter-onebot = "^2.1"
+nonebot2 = "^2.0.0"
 httpx = "^0.23.0"
 
 [tool.poetry.dev-dependencies]
